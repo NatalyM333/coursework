@@ -1,0 +1,22 @@
+#MyClockDisplay,#tempNow
+{
+    font: {
+        size: 60px;
+        weight: bold;
+    }
+
+}
+
+#day{
+    font-size: 30px;
+}
+#month{
+    font-size: 24px;
+}
+#date{
+    margin-top: 20px;
+}
+#wicon{
+    width: 60px ;
+    height: 60px;
+}
